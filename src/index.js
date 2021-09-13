@@ -1,6 +1,6 @@
 import initTilt from "./js/tilt";
 import initSr from "./js/sr";
-import resume from "./assets/usamarafay.pdf";
+import resume from "./assets/usama_rafay_CV.pdf";
 
 import "./style/main.scss";
 
